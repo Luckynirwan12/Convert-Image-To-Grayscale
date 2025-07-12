@@ -13,7 +13,7 @@ This script converts up to 10 images from color to grayscale using OpenCV.
 
 Install using:
 
-   pip install opencv-python
+     pip install opencv-python
 
 ## 🚀 How to Run
 
