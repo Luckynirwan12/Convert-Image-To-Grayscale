@@ -17,8 +17,10 @@ Install using:
 
 ## 🚀 How to Run
 
-1. Put your images inside the input_images/ folder.
+1. Put your images inside the `input_images/` folder.
 
 2. Run the script:
 
        python convert_to_gray.py    
+
+3. Grayscale versions will be saved in `grayscale_images/`.
